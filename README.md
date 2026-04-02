@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 Built an end-to-end data engineering pipeline using Azure Databricks and ADLS.
 
+## 🏗️ Architecture Diagram
+
+![Architecture](images/architecture.png)
+
 ## 🚀 Tech Stack
 - PySpark
 - Azure Databricks
